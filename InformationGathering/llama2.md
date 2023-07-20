@@ -3,6 +3,7 @@
 参考サイト
 - [MetaとMicrosoftが提携し、「Llama 2」をリリース](https://qiita.com/jingwora/items/49eec682a6e93ea08cc0)
 - [Metaの次世代オープンソースLLM「Llama 2」が発表 ～AzureとWindows上で動作サポート](https://forest.watch.impress.co.jp/docs/news/1517341.html)
+- [Google Colab で Llama 2 を試す](https://note.com/npaka/n/n230c0c85f4d9)
 
 llamaはメタ製
 
@@ -30,3 +31,4 @@ Hugging Faceとかでも今後使用できる感じ＼(^o^)／
 chat-GPT3.5ぐらいに匹敵している。
 
 文字数すこしネックかも
+
